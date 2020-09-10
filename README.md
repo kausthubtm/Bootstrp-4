@@ -12,5 +12,8 @@ This website was created for better understanding and improving my frontend. It 
 4. Easy navigation and user-friendly. (using nav-bar, tables, carousel, etc....)
 
 # Project set-up
-1.Navigate to the ConFusion folder.
-2.In the terminal type "npm start".
+1. Navigate to the ConFusion folder.       
+2. In the terminal type "npm start".
+
+# Future features
+1. A Login/Sign-up page.
